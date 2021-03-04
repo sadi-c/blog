@@ -1,5 +1,5 @@
 INSTALLED_APPS = [
-    'personal',
+    'own',
     'blog',
     'django.contrib.admin',
     'django.contrib.auth',
